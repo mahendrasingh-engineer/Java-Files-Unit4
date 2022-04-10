@@ -1,0 +1,2 @@
+JAVA PLATFORM-INDEPENDENT
+	The JVM(Java Virtual Machine) is installed on the platform(Operating System). Thus Java Manage platform independence by JVM.
