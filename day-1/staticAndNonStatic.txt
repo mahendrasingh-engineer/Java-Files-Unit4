@@ -1,0 +1,6 @@
+STATIC 
+	Static members of a class are accessible without creating an object and are shared between all objects
+
+NON-STATIC
+	Non-Static members are created when an object is created. Each object has a different non-static member value. Non-static members are accessible only with the object.
+Anyone can't access non-static members without an object name. These are not shared with another object.
