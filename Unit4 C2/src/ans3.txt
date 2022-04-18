@@ -1,0 +1,12 @@
+String
+	String class used to manage string data.It has many inbuilt functions
+	this class belongs to java.lang peckage.
+	
+StringBuffer and StringBuilder
+	these two classes are to provide more functionality over the string data
+	StringBuffer uses many csynchronized field whereas StringBuilder not so it's faster than 
+	StringBuffer.
+	
+toString
+	this function is to convert other datatype to string.It belongs to Object class
+	it gives apropriate data in string form to a specific input.
