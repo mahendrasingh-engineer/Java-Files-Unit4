@@ -1,0 +1,2 @@
+checked exceptions are the exception which are checked by the compiler at the coompile time whereas
+ the unchecked exception are throwen at the run time and are not checked at the coompile time
