@@ -1,4 +1,4 @@
-package ans2;
+package ans3;
 
 import java.util.Scanner;
 class Main {
