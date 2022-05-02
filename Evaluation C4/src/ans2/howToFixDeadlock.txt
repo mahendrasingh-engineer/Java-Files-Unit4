@@ -1,0 +1,11 @@
+	To handle deadlock we can do following
+	  --Should ignore multiple dependencies on synchronized resources of a thread.
+	  --if we using multidependencies thread should release captured synchronized time to time when waiting for the next synchronized
+	  resources.
+	  
+	  -- can use an intermidiate(or a variable inside a class or a object which has syncronized field)
+	   variable to checkk if a resource is free or not to check inside the trhed to apply the condition-"only 
+	  go further if all resources are available";
+	  
+	  
+	  
